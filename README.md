@@ -1,4 +1,4 @@
-# ☕ Ernest Coffee Shop Website
+# ☕ Coffee Shop Website
 
 Ini adalah template website **Coffee Shop** sederhana, modern, dan interaktif.  
 Dibuat menggunakan **HTML, CSS, dan JavaScript** dengan desain **one-page** (semua section ada dalam satu halaman).
